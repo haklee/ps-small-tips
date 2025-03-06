@@ -1,0 +1,5 @@
+# indent에 4-space를 사용하도록
+MD007: { "indent": 4 }
+
+# length limit: off
+MD013: false
